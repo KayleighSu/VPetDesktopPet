@@ -1,6 +1,8 @@
 README
 
-HOW TO INSTALL DAZAI VPET:
+Melancholic Pet
+A cute desktop pet companion built with Lua and Rainmeter.
+**Play it here:** https://dazaiworks.itch.io/melancholic-pet
 
 1. Insall Rainmeter
     if you don't have it, download and install it from:
