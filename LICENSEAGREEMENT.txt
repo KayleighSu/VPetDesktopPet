@@ -1,0 +1,21 @@
+LICENSE AGREEMENT
+
+"Melancholic VPet | Inspired by Dazai" Rainmeter Skin Copywrite 2026 - DazaiWorks
+
+Terms of Use:
+1. PERSONAL USE ONLY
+	You are free to download, install, and use the software for your own personal, non-commercial use.
+
+2. NO REDISTRIBUTION
+	You may NOT re-upload, host, or redistribute this file (the .rmskin package or its contents) on any other website, server, or file-sharing service. If you wish to share this project, please link directly to the official itch.io page: https://dazaiworks.itch.io/melancholic-pet
+
+3. NO COMMERCIAL USE
+	You may NOT sell this software, include it in a paid product, or use it for any commercial purpose.
+
+4. MODIFICATION
+	You may modify the code/assets for your own personal, private use. You may NOT distribute modified versions of this software without explicit written permission from the author.
+
+5. DISCLAIMER
+	This software is provided "as is", without warranty of any kind. The author is not liable for any damages arising from the use of this software.
+
+All rights reserved.
