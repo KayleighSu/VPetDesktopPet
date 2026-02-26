@@ -4,7 +4,7 @@ Melancholic Pet
 A cute desktop pet companion built with Lua and Rainmeter.
 **Play it here:** https://dazaiworks.itch.io/melancholic-pet
 
-1. Insall Rainmeter
+1. Install Rainmeter
     if you don't have it, download and install it from:
     https://www.rainmeter.net/
 2. Install the Skin
